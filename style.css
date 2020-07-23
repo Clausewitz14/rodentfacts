@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+body{
+    font-family: 'Dosis', sans-serif;
+    background: lightblue;
+    padding: 50px ;
+    margin: 30px;
+}
+.page{
+    background: white;
+    margin:100px 300px;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    background: lightgoldenrodyellow;
+    color: black;
+    padding: 8.5px;
+    margin: 12px;
+    border-color: black;
+}
